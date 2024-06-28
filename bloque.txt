@@ -1,0 +1,7 @@
+He aprendido a usar la terminal en powershell
+La diferencia entre git y github 
+Acrear versiones en git y sus funciones basicas
+A crear una cuenta em github 
+A crear repositorios
+a vincular git con github
+
